@@ -4,7 +4,7 @@
 This project analyzes heart disease risk using machine learning models. We apply **Exploratory Data Analysis (EDA)**, feature engineering, and model evaluation to predict heart disease presence.  
 The final model is **Logistic Regression**, chosen for its high performance and interpretability.
 
-## 🛠️ Technologies & Methods  
+## Technologies & Methods  
 - **Python**, **Pandas**, **Matplotlib**, **Seaborn**, **Scikit-Learn**, **SHAP**  
 - **Exploratory Data Analysis (EDA)**  
 - **Feature Engineering & Selection**  
@@ -27,7 +27,7 @@ The final model is **Logistic Regression**, chosen for its high performance and 
 ---
 
 
-## 📊 Dataset Information  
+## Dataset Information  
 - **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease)  
 - **Description:** The dataset contains **76 attributes** collected from **303 patients**. The objective is to predict **heart disease presence** based on factors like **age, cholesterol, blood pressure, chest pain type, and more**.  
 - **Target Variable:** `"Heart Disease"` → `"Presence"` or `"Absence"`
