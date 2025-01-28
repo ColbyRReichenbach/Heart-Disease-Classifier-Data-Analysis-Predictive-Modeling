@@ -45,7 +45,7 @@ Heart disease remains a **leading cause of death worldwide**, with early detecti
 ---
 
 ### **Max Heart Rate (Max HR) & Heart Disease**  
-![Max HR Distribution](Visuals/Max_HR_Distribution.png)  
+![Max HR Distribution](Visuals/Max HR_Distribution.png)  
 - **Patients with Max HR < 140 bpm** had a **28.6% higher risk** of heart disease.
 - Lower **cardiovascular fitness** is associated with increased risk.
 
