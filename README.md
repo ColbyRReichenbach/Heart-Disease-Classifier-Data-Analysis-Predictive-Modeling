@@ -36,5 +36,5 @@ The final model is **Logistic Regression**, chosen for its high performance and 
 
 ## 📧 Contact  
 ✍️ Colby Reichenbach  
-📩 [colbyrreichenbach@gmail.com](colbyrreichenbach@gmail.com)  
+📩 **Email:** [colbyrreichenbach@gmail.com](mailto:colbyrreichenbach@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/colby-reichenbach/)
