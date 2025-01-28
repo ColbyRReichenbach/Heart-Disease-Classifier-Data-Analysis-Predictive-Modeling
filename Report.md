@@ -28,7 +28,7 @@ Heart disease remains a **leading cause of death worldwide**. As healthcare prof
 ## 🔍 **Key Findings from Exploratory Data Analysis (EDA)**
 
 ### **Age & Heart Disease Risk**  
-Older patients have a **higher likelihood of heart disease**, with cases rising significantly **after age 50**.  
+- Older patients have a **higher likelihood of heart disease**, with cases rising significantly **after age 50**.  
 
 **Age Distribution of Patients**  
 ![Age Distribution](./Visuals/Age_Distribution.png)
