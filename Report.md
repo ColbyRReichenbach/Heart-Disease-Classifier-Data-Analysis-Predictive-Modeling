@@ -1,10 +1,10 @@
 # 🏥 Heart Disease Risk Analysis & Prediction  
-**Date:** Jan. 27, 2025  
-**Author:** Colby Reichenbach   
+**Prepared By:** Colby Reichenbach  
+**Date:** Jan. 27, 2025   
 
 ---
 
-## 📌 **Executive Summary**  
+## **Executive Summary**  
 Heart disease remains a **leading cause of death worldwide**. As healthcare professionals, **early detection and prevention** are key to reducing mortality rates. This report examines **patient data from a hospital study** and applies **machine learning** to predict **heart disease presence**, enabling **early intervention and better patient outcomes**.
 
 ✔ **Key Insights from Data:** Identified high-risk patient profiles.  
@@ -15,12 +15,12 @@ Heart disease remains a **leading cause of death worldwide**. As healthcare prof
 ---
 
 ## 📂 **Dataset Overview**
-📌 **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease)  
-📌 **Patients:** 303 individuals  
-📌 **Features:** Age, Blood Pressure, Cholesterol, Chest Pain Type, etc.  
-📌 **Target Variable:** `"Heart Disease"` (Presence or Absence)  
+   **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease)  
+   **Patients:** 303 individuals  
+   **Features:** Age, Blood Pressure, Cholesterol, Chest Pain Type, etc.  
+   **Target Variable:** `"Heart Disease"` (Presence or Absence)  
 
-**🔹 Distribution of Patients with Heart Disease:**  
+** Distribution of Patients with Heart Disease:**  
 ![Heart Disease Distribution](./Visuals/Heart_Disease_Distribution.png)
 
 ---
@@ -69,9 +69,9 @@ The model was trained on **patient data** and evaluated using **various machine 
 ---
 
 ## **How the Model Can Help the Hospital**
-✅ **Early Warning System:** Automatically flags **high-risk patients** based on their medical history.  
-✅ **Doctor Decision Support:** Helps doctors prioritize **at-risk patients for early intervention**.  
-✅ **Personalized Treatment Plans:** Enables better **resource allocation** for high-risk individuals.
+   **Early Warning System:** Automatically flags **high-risk patients** based on their medical history.  
+   **Doctor Decision Support:** Helps doctors prioritize **at-risk patients for early intervention**.  
+   **Personalized Treatment Plans:** Enables better **resource allocation** for high-risk individuals.
 
 ---
 
@@ -83,7 +83,7 @@ While **machine learning can improve diagnostics**, it **must not replace doctor
 ✔ **Human Oversight:** **Doctors should make the final decision**, using the AI model as a **support tool**.  
 ✔ **Data Privacy:** Patient data should remain **confidential** and follow **hospital privacy regulations**.
 
-⚠️ **AI models are not perfect—doctors should validate predictions before making medical decisions.**
+**AI models are not perfect—doctors should validate predictions before making medical decisions.**
 
 ---
 
