@@ -16,7 +16,7 @@ The final model is **Logistic Regression**, chosen for its high performance and 
 
 ## 📂 Repository Structure  
 
-📁 Heart-Disease-Prediction/
+📁 Heart-Disease-Prediction/  
 ├── 📂 Notebooks/ → Jupyter Notebooks for EDA, Modeling, and Interpretation  
 ├── 📂 Data/ → Processed dataset files  
 ├── 📂 Visuals/ → Saved figures for analysis  
