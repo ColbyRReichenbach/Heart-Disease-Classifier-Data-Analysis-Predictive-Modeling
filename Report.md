@@ -1,4 +1,4 @@
-# 🏥 Heart Disease Risk Analysis & Prediction  
+# Heart Disease Risk Analysis & Prediction  
 **Prepared By:** Colby Reichenbach  
 **Date:** Jan. 27, 2025   
 
