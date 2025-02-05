@@ -15,17 +15,23 @@ The final model is **Logistic Regression**, chosen for its high performance and 
 ---
 
 ## 📂 Repository Structure  
-
-📁 Heart-Disease-Prediction/  
-├── 📂 Notebooks/ → Jupyter Notebooks for EDA, Modeling, and Interpretation  
-├── 📂 Data/ → Processed dataset files  
-├── 📂 Visuals/ → Saved figures for analysis  
-├── 📜 README.md → Project Overview (This File)  
-├── 📜 Final_Report.md → Full Report with Insights  
-├── 📜 requirements.txt → Required Python dependencies  
+```bash
+├── Notebooks/
+│   └── Data_Cleaning_and_Preprocessing_.ipynb        # Notebook for cleaning and processing data
+│   └── Exploratory_Data_Analysis.ipynb               # Full EDA with visuals
+│   └── Feature_Engineering.ipynb                     # Engineering features for modeling
+│   └── Model_Development_and_Interpretation.ipynb    # Code for developing, running, and interpreting models
+├── Visuals/                        # figures derived from notebooks - for use in reports
+├── data/
+│   └── Heart_Disease.csv           # Raw dataset
+│   └── Cleaned_Data.csv            # Cleaned dataset
+│   └── Engineered_Data             # Dataset for modeling
+├── README.md                       # Project documentation
+├── Report.md                       # Detailed report with analysis
+└── requirements.txt                # Required packages to run notebook
+```
 
 ---
-
 
 ## Dataset Information  
 - **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease)  
