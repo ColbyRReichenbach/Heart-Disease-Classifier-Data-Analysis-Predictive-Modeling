@@ -14,7 +14,7 @@ The final model is **Logistic Regression**, chosen for its high performance and 
 
 ---
 
-## 📂 Repository Structure  
+## Repository Structure  
 ```bash
 ├── Notebooks/
 │   └── Data_Cleaning_and_Preprocessing_.ipynb        # Notebook for cleaning and processing data
@@ -40,7 +40,7 @@ The final model is **Logistic Regression**, chosen for its high performance and 
 
 ---
 
-## 📧 Contact  
-✍️ Colby Reichenbach  
-📩 **Email:** [colbyrreichenbach@gmail.com](mailto:colbyrreichenbach@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/colby-reichenbach/)
+## Contact  
+Colby Reichenbach  
+**Email:** [colbyrreichenbach@gmail.com](mailto:colbyrreichenbach@gmail.com)  
+[LinkedIn Profile](https://www.linkedin.com/in/colby-reichenbach/)
