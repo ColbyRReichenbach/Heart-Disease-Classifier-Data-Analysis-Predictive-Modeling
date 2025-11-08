@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction
+# Heart Disease Prediction
 
 ## Project Overview  
 This project analyzes heart disease risk using machine learning models. We apply **Exploratory Data Analysis (EDA)**, feature engineering, and model evaluation to predict heart disease presence.  
